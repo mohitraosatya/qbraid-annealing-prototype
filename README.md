@@ -23,7 +23,7 @@ A proof‑of‑concept demonstrating how to integrate a quantum‑annealing work
 4. **Result Tracking & Visualization** — fetch the best solution and plot the cut  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/qbraid-annealing-prototype/main/assets/demo.png" alt="Max‑Cut Demo" width="400"/>
+  <img src="https://raw.githubusercontent.com/mohitraosatya/qbraid-annealing-prototype/main/assets/demo.png" alt="Max‑Cut Demo" width="400"/>
 </p>
 
 ---
