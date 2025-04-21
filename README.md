@@ -30,3 +30,9 @@ A proof‑of‑concept demonstrating how to integrate a quantum‑annealing work
    ```bash
    git clone https://github.com/mohitraosatya/qbraid-annealing-prototype.git
    cd qbraid-annealing-prototype
+
+---
+
+Author: Satya Mohit Rao Kamkanampati
+Email: saka4331@colorado.edu
+Linkedin: https://www.linkedin.com/in/mohitraosatya
